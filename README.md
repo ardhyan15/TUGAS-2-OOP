@@ -3,7 +3,8 @@
 # OOP-Praktikum-2
 
 ## Latihan 1
-![](Photo/Screenshot%20(12).png)
+![Screenshot (12)](https://github.com/user-attachments/assets/e513411b-075c-4067-96aa-1077a51cec72)
+
 
 **1. Apa yang harus didefinisikan sebelum membuat objek?**
 
